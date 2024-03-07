@@ -1,0 +1,31 @@
+.mbti_body {
+    width: 50%;
+    margin: auto;
+    box-shadow: 0px 5px 5px 5px #808080;
+}
+
+.mbtiResult{
+    font-size: 70px;
+    font-weight: bold;
+    background-color: #AEDFF7;
+    height: 500px;
+    line-height: 500px;
+    text-align: center;
+    color: #808080;
+}
+
+.middle{
+    font-size: 30px;
+    color: #AEDFF7;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+}
+
+.mbtiContext{
+    color: #424242;
+    font-size: 20px;
+    padding: 0px 0px 20px 30px;
+    line-height: 50px;
+    margin-left: 30px;
+}

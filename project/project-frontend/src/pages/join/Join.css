@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+}
+
+.join_body {
+    width: 50%;
+    margin: auto;
+    margin-top: 70px;
+    text-align: center;
+}
+
+input{
+    font-size: 25px;
+    border: 0;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+input:focus {
+    border-color: #4CAF50; 
+  }
+
+  .join_form{
+    width: 450px;
+    padding: 20px;
+    background-color: #eeeff1;
+    border: 0;
+    border-radius: 5px;
+    margin: 0 auto;    
+ }   
+
+
+ .join_btn{
+    width: 80%;
+    color: #424242;
+    background-color: #AEDFF7;
+    padding: 10px;
+    cursor: pointer;
+ }
+
+ .username{
+    margin-top: 20px;
+ }
+  
